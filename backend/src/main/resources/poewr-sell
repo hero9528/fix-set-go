@@ -1,0 +1,9 @@
+$env:FIX_SET_GO_SMTP_USERNAME="dk88107765@gmail.com"
+$env:FIX_SET_GO_SMTP_PASSWORD="jvoeoseckrlquhjq"
+$env:FIX_SET_GO_LEADS_TO="dk88107765@gmail.com"
+$env:FIX_SET_GO_LEADS_FROM="dk88107765@gmail.com"
+
+
+
+
+mvn spring-boot:run
